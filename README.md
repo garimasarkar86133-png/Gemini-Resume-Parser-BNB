@@ -1,1 +1,1 @@
-# Gemini-Resume-Parser-BNB
+# AI-RECIPE-GENERATOR-BNB
