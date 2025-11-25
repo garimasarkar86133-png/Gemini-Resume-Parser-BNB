@@ -1,1 +1,1 @@
-# AI-RECIPE-GENERATOR-BNB
+# AI Recipe Generator - BNB Marathon 2025
